@@ -1,6 +1,6 @@
 # SSL-segmentation
 # Self-supervised learning to more efficiently generate segmentation masks for wrist ultrasound
-This is the code for MICCAI paper: [Self-supervised learning to more efficiently generate segmentation masks for wrist ultrasound] (https://link.springer.com/chapter/10.1007/978-3-031-44521-7_8)
+This is the code for MICCAI paper: [Self-supervised learning to more efficiently generate segmentation masks for wrist ultrasound](https://link.springer.com/chapter/10.1007/978-3-031-44521-7_8)
 
 The TransUNet folder files are from TransUNet github(by Chen et al.) with bugs fixed and model added a sigmoid activation function: https://github.com/Beckschen/TransUNet/tree/main/networks. 
 
